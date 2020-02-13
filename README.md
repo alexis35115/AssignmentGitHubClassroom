@@ -30,7 +30,7 @@ Pour l'installation et la configuration de Git pour Windows, suivre le [tutoriel
 
 1. Cliquez sur le bouton vert "Clone or download" et copier le lien dans la fenêtre.
 2. Ouvrir une invite de commandes PowerShell
-3. Naviguez jusqu'au répertoire où que l'on veuille cloner le référentiel
+3. Naviguez jusqu'au répertoire où que l'on veuille cloner le référentiel (voir [l'astuce](https://www.addictivetips.com/windows-tips/open-powershell-in-a-specific-location/))
 4. Entrez la commande "git clone UrlDuReferentiel"
 
 ### Ajouter un projet .Net existant à un référentiel fraîchement cloné
